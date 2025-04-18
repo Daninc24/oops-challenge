@@ -3,7 +3,8 @@
 from pet import Pet
 
 # Create a pet object
-my_pet = Pet("Mocha")
+my_pet = Pet("Mocha", "Dog")  
+
 
 
 # Interact with the pet
